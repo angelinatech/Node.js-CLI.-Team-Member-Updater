@@ -52,7 +52,7 @@ When a user decides to finish building their team, they exit the application and
 
 This is a sample image of the working application's functionality:
 
-![Screenshot 2023-05-18 at 13 47 12](https://github.com/angelinatech/Node.js-CLI-Team-Updater/assets/130837613/300b67e8-afaa-4283-aadb-364c8459b258)
+![Screenshot 2023-05-18 at 13 47 12](https://github.com/angelinatech/Node.js-CLI.-Team-Member-Updater/assets/130837613/ff713962-87b4-4d86-829c-3ea47509fad6)
 
 ## Credits
 
